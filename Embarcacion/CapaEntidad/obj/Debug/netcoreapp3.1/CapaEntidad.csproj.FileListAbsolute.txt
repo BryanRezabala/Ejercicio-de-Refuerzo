@@ -1,0 +1,14 @@
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.deps.json
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.dll
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.pdb
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.csproj.AssemblyReference.cache
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.AssemblyInfoInputs.cache
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.AssemblyInfo.cs
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.dll
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.pdb
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.exe
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.runtimeconfig.json
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\CapaEntidad.runtimeconfig.dev.json
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\CapaEntidad.genruntimeconfig.cache

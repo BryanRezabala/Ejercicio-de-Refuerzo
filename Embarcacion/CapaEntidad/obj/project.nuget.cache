@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrAIf34HAQqiJXF4+IpN/vGtMpFBAVa06qv4AEP45jvtFkpyL1H/Bg1r22DEhNwTLcs4TuWh29CRIVnNgVIuvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Metodos numericos\\POO\\Ejercicio\\Embarcacion\\Embarcacion\\CapaEntidad\\Embarcacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

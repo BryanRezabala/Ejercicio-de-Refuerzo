@@ -1,0 +1,28 @@
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.csproj.AssemblyReference.cache
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.AssemblyInfoInputs.cache
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.AssemblyInfo.cs
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.csproj.CoreCompileInputs.cache
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.exe
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.deps.json
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.runtimeconfig.json
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.runtimeconfig.dev.json
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.dll
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.pdb
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.dll
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.pdb
+D:\LENGUAJES DE PROGRAMACION\C#\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.genruntimeconfig.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.exe
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.deps.json
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.runtimeconfig.json
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.runtimeconfig.dev.json
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.dll
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\bin\Debug\netcoreapp3.1\Embarcacion.pdb
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.AssemblyInfo.cs
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.dll
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.pdb
+C:\Users\Home\Desktop\Metodos numericos\POO\Ejercicio\Embarcacion\Embarcacion\CapaEntidad\obj\Debug\netcoreapp3.1\Embarcacion.genruntimeconfig.cache
